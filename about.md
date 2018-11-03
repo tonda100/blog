@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Developer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Jsem vývojář, tělem i duší. Možná jsem spíš *"brousič"*.
+Chci, aby má sekera byla co nejostřejší a všechny vývojářské výzvy překonány co nejjednodušším způsobem.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Ztotožňuji se s pravidlem 80/20 (za 20% námahy získat 80% muziky) a osobní život má vždy přednost před prací. Moje práce je mým koníčkem.
